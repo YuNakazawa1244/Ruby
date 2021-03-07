@@ -57,9 +57,9 @@ main{
 }
 
 .list-wrap {
-  
+
   display:flex;
-  
+
   flex-wrap:wrap;
 }
 
@@ -72,3 +72,5 @@ main{
 .list-comment{
   width:200px;
 }
+
+/*再度コミット*/
